@@ -31,7 +31,7 @@ C:\PS> ConvertTo-Unsigned -Integer ([int16]-32767)
 .LINK
 My Blog: http://virot.eu
 Blog Entry: http://virot.eu/wordpress/converting-from-twos-complement-using-powershell
-
+Github: https://github.com/virot/Smaller-Scripts/tree/master/Convert-Int2Complement
 .NOTES
 Author:	Oscar Virot - virot@virot.com
 Filename: Convert-Int2Complement.ps1
