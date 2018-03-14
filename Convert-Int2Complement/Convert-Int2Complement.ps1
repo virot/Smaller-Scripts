@@ -16,15 +16,15 @@ Int16, Int32, Int64, uInt16, uInt32, uInt64
 None.
 
 .EXAMPLE
-C:\PS> ConvertTo-Unsigned -Integer ([int]-2147483640)
+C:\PS> Convert-Int2Complement -Integer ([int]-2147483640)
 2147483656
 
 .EXAMPLE
-C:\PS> ConvertTo-Unsigned -Integer ([int16]-32768)
+C:\PS> Convert-Int2Complement -Integer ([int16]-32768)
 32768
 
 .EXAMPLE
-C:\PS> ConvertTo-Unsigned -Integer ([int16]-32767)
+C:\PS> Convert-Int2Complement -Integer ([int16]-32767)
 32769
 
 
